@@ -1,0 +1,15 @@
+﻿{
+  "name": "Dig Dug",
+  "serie": "Dig Dug",
+  "roms": ["digdug", "digdug1", "digdugat", "digdugat1"],
+  "developer": "Namco",
+  "publisher": "Namco",
+  "hardware": "arcade",
+  "playMode": "2_player_alternating",
+  "genre": "maze",
+  "subGenre": "digging",
+  "inputs": {
+    "B_0": "BUTTON0"
+  },
+  "joystick": "4_way"
+}
