@@ -1,7 +1,7 @@
 {
   "name": "Battle Chopper",
   "serie": "Battle Chopper",
-  "roms": ["bchopper"],
+  "roms": ["bchopper", "mrheli"],
   "developer": "Irem",
   "publisher": "Irem",
   "hardware": "arcade",
